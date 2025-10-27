@@ -16,8 +16,7 @@ By advancing methods in representation and contextual learning, we aim to captur
 ---
 
 ### Why “the Fox”?
-The fox is intelligent and opportunistic — a scavenger that survives by sifting through what others discard, finding value where none seems to exist.  
-That’s how we see machine learning in the markets: not a blunt tool for prediction, but a keen observer, hunting for signal buried deep in the noise.
+The fox is intelligent and opportunistic — a scavenger that survives by sifting through garbage to find value where none seems to exist. That’s how we see machine learning in the markets: not a blunt tool for prediction, but a keen observer, hunting for signal buried deep in the noise.
 
 ---
 
@@ -32,4 +31,4 @@ Public releases, documentation, and selected open-source components will appear 
 
 ---
 
-*For collaboration or enquiries, contact us at info@autonomous-fox.ai*
+*For collaboration or enquiries, contact us at contact@autonomous-fox.ai*
