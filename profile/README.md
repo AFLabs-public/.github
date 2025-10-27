@@ -1,4 +1,4 @@
-# AOTONOMOUS-FOX LABORATORIES
+# AUTONOMOUS-FOX LABORATORIES
 
 **Autonomous-Fox Laboratories (AF Labs)** is an independent research group exploring the intersection of machine learning and financial market behaviour.
 
