@@ -1,9 +1,6 @@
-# Autonomous-Fox Laboratories
-Pioneering intelligent systems for adaptive financial markets.
-
 # 🦊 Autonomous-Fox Laboratories
 
-**Pioneering intelligent systems for mastering the financial markets.**
+**Pioneering intelligent systems for adaptive financial markets.**
 
 We develop next-generation machine learning architectures for representation learning, causal inference, and systematic arbitrage — bringing intelligence, adaptability, and precision to modern market modelling.
 
