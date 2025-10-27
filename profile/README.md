@@ -1,9 +1,10 @@
 # Autonomous-Fox Laboratories
 
-Autonomous-Fox Laboratories (AF Labs) is an independent research group exploring the intersection of **machine learning** and **financial market behaviour**.  
+**Autonomous-Fox Laboratories (AF Labs)** is an independent research group exploring the intersection of machine learning and financial market behaviour.
 
-Our work focuses on developing deep learning models that extract structure from complex, noisy data — particularly in settings where useful information is scarce and unstable.
+Our work focuses on developing deep learning models that extract structure from complex, noisy data — particularly in settings where useful information is scarce and unstable.  
 By advancing methods in representation and contextual learning, we aim to capture the underlying organisation of market behaviour rather than just its surface patterns.
+
 ---
 
 ### What we do
@@ -15,13 +16,14 @@ By advancing methods in representation and contextual learning, we aim to captur
 ---
 
 ### Why “the Fox”?
-The fox is intelligent, adaptive, and opportunistic — a scavenger that survives by sifting through trash and finding value where others see none.  
-That’s how we see modern AI in the markets: not a blunt instrument of prediction, but a keen observer — hunting for signal buried deep in the data.
+The fox is intelligent and opportunistic — a scavenger that survives by sifting through what others discard, finding value where none seems to exist.  
+That’s how we see machine learning in the markets: not a blunt tool for prediction, but a keen observer, hunting for signal buried deep in the noise.
 
 ---
 
 Most of our research and development repositories are private while under development or in active use.  
 Public releases, documentation, and selected open-source components will appear here as projects reach production readiness and papers are published.
+
 ---
 
 📍 **Based in London, UK**  
