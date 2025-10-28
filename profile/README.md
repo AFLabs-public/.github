@@ -1,6 +1,6 @@
 # AUTONOMOUS-FOX LABORATORIES
 
-**Autonomous-Fox Laboratories (AF Labs)** is an independent research group exploring the intersection of machine learning and financial market behaviour.
+***Autonomous-Fox Laboratories (AF Labs) is an independent research group advancing deep learning and statistical approaches for modelling the behaviours of financial markets.
 
 Our work focuses on developing deep learning models that extract structure from complex, noisy data — particularly in settings where useful information is scarce and unstable.  
 By advancing methods in representation and contextual learning, we aim to capture the underlying organisation of market behaviour rather than just its surface patterns.
@@ -9,7 +9,7 @@ By advancing methods in representation and contextual learning, we aim to captur
 
 ### What we do
 - **Representation Learning for Markets** — uncovering latent structure in financial time series  
-- **Neural State-Space Models** — learning discrete and continuous dynamics from data  
+- **Neural State-Space Models** — learning discrete and continuous dynamical behaviour  from data  
 - **Causal and Hierarchical Generative Models** — building architectures that explain, not just predict  
 - **Systematic Arbitrage Research** — applying learning systems to trading financial markets
 
